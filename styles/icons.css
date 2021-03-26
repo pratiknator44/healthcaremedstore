@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'ms-icons';
+    src: url('icomoon.woff');
+    format:('opentype');
+}
+
+.icon-child:before {
+    content: "\e900";
+}
+.icon-heartbeat:before {
+    content: "\e901";
+}
+.icon-heart:before {
+    content: "\e901";
+}
+.icon-injection:before {
+    content: "\e902";
+}
+.icon-pil:before {
+    content: "\e903";
+}
+.icon-health:before {
+    content: "\e904";
+}
+.icon-phone:before {
+    content: "\e942";
+}
+.icon-location2:before {
+    content: "\e948";
+}
+.icon-mobile:before {
+    content: "\e958";
+}
+.icon-aid-kit:before {
+    content: "\e90d";
+}
+.icon-truck:before {
+    content: "\e907";
+}
+.icon-google:before {
+    content: "\ea88";
+}
+.icon-facebook:before {
+    content: "\ea90";
+}
+.icon-whatsapp:before {
+    content: "\e909";
+}
+.icon-condom-male:before {
+    content: "\e90c";
+}
+
+.icon-sanitary-pad:before {
+    content: "\e90e";
+}
+.icon-supplement:before {
+    content: "\e90f";
+}
+
+.icon-phone:before {
+    content: "\e910";
+}
+.icon-map:before {
+    content: "\e904";
+}
